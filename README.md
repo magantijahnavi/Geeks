@@ -11,7 +11,7 @@
 
 .[Facebook].(https://www.google.com/search?channel=fs&client=ubuntu&q=facebook)
 
-![Galaxy].(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8eTzfSzeZul9dv9-AC4k4eDUyXGlC7xCdA&usqp=CAU)
+ ![Galaxy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8eTzfSzeZul9dv9-AC4k4eDUyXGlC7xCdA&usqp=CAU)
 
 Sno | Name | Num
 -----|-----|----
